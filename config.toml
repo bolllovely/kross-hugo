@@ -1,4 +1,4 @@
-baseURL = "https://devharshgupta.netlify.com"
+baseURL = "https://webdevharshgupta.netlify.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
